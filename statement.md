@@ -1,7 +1,5 @@
 Statement:
 
-
-
 Problem Statement:
 The goal of cooking eggs to a specific doneness (e.g., soft-boiled, hard-boiled, etc.) is often undermined by inconsistent
 timing and the lack of a simple, dedicated tool for precise calculation. Home cooks frequently end up with undercooked or 
